@@ -1,1 +1,1 @@
-# dataStructureAndAlgorithm-js
+# DataStructureAndAlgorithm-js
